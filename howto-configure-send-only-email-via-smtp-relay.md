@@ -448,6 +448,13 @@ Good luck. Send comments or feedback: <t0dd@protonmail.com>
 * [Google email send rate limits](https://support.google.com/mail/answer/22839?hl=en) -- 500 per day
 * [Webpage talking about various send-limits](http://www.yetesoft.com/free-email-marketing-resources/email-sending-limit/) -- not sure how accurate
 
+## custom
+ * https://help.ubuntu.ru/wiki/postfix_relay_yandex
+ * http://estmnenie.com/postfix-send-mail-via-smtp-yandex.html
+ * https://www.cyberciti.biz/faq/how-to-configure-postfix-relayhost-smarthost-to-send-email-using-an-external-smptd/
+ * https://serverfault.com/questions/965131/rsyslog-ommail-to-localhost-postfix
+ * https://iotdesignpro.com/projects/sending-smtp-email-using-raspberry-pi
+ * https://www.rsyslog.com/doc/v8-stable/configuration/modules/ommail.html
 ----
 
 > **A big caveat about 3rd party email providers!**
